@@ -2,7 +2,7 @@
 
 > **Prácticas de Programación en Pareja con Modelos de Lenguaje (LLMs)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_DE_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NoahEritier/ai-pair-programming-lab/blob/main/ai_pair_programming_lab.ipynb)
 
 Este repositorio contiene un **Jupyter Notebook** que documenta ejercicios prácticos de ingeniería de software utilizando Inteligencia Artificial como herramienta de productividad y mejora de calidad (Pair Programmer).
 
